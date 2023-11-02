@@ -1,7 +1,8 @@
 name: Create and Validate Atlas Playbook
 
-on: [workflow_dispatch]
-  paths:
+on:
+  push:
+    paths:
       - 'src/**'
 
 env:
