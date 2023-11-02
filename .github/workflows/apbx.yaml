@@ -3,7 +3,7 @@ name: Create and Validate Atlas Playbook
 on:
   push:
     paths:
-      - 'src/**'
+      - 'src/**' 
 
 env:
   PACKAGE_PATH: '..\Atlas\src\playbook\Executables\AtlasModules\Packages'
