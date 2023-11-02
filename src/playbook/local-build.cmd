@@ -28,7 +28,7 @@ $defaultConfig = @{
 $configPath = "$env:APPDATA\local-build\config.json"
 
 # ------------- #
-# config system #
+# config system  #
 # ------------- #
 
 $shortcut = "$env:LOCALAPPDATA\Microsoft\WindowsApps\ame-lb-conf.lnk"
